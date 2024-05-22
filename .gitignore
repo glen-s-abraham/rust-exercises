@@ -3,3 +3,6 @@ variables/target/debug
 functions/target/debug
 control_flow_and_strings/target/debug
 references_and_borrowings/target/debug
+structs_and_traits/target/debug
+collections_and_enums/target/debug
+project_invaders/target/debug
